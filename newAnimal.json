@@ -1,0 +1,64 @@
+{
+    "dataOfSeveralAnimals": [
+        {
+            "animalName": "Okapi",
+            "animalType": "Mammal",
+            "imageLink": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Saint-Aignan_%28Loir-et-Cher%29._Okapi.jpg",
+            "lifeSpan": "16"
+        },
+        {
+            "animalName": "Mexican Wolf",
+            "animalType": "Mammal",
+            "imageLink": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mexican_Wolf_2_yfb-edit_1.jpg",
+            "lifeSpan": "11"
+        },
+        {
+            "animalName": "Alligator Gar",
+            "animalType": "Fish",
+            "imageLink": "https://upload.wikimedia.org/wikipedia/commons/1/16/Alligator_Gar_10.JPG",
+            "lifeSpan": "50"
+        },
+        {
+            "animalName": "Corn Snake",
+            "animalType": "Reptile",
+            "imageLink": "https://upload.wikimedia.org/wikipedia/commons/4/40/Corn_Snake_Adult.jpg",
+            "lifeSpan": "8"
+        },
+        {
+            "animalName": "Bennett's Wallaby",
+            "animalType": "Marsupial",
+            "imageLink": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Macropus_rufogriseus_rufogriseus_Bruny.jpg",
+            "lifeSpan": "15"
+        },
+        {
+            "animalName": "Pink-backed Pelican",
+            "animalType": "Bird",
+            "imageLink": "https://upload.wikimedia.org/wikipedia/commons/6/64/Pink_backed_pelican_side_view.jpg",
+            "lifeSpan": "13"
+        },
+        {
+            "animalName": "Hyacinth Macaw",
+            "animalType": "Bird",
+            "imageLink": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Anodorhynchus_hyacinthinus_-Disney_-Florida-8.jpg",
+            "lifeSpan": "24"
+        },
+        {
+            "animalName": "Eastern Screech Owl",
+            "animalType": "Bird",
+            "imageLink": "https://upload.wikimedia.org/wikipedia/commons/5/55/EasternScreechOwl-Rufous.jpg",
+            "lifeSpan": "10"
+        },
+        {
+            "animalName": "African Painted Dog",
+            "animalType": "Mammal",
+            "imageLink": "https://upload.wikimedia.org/wikipedia/commons/b/ba/African_wild_dog_%28Lycaon_pictus_pictus%29.jpg",
+            "lifeSpan": "10"
+        },
+        {
+            "animalName": "Southern Tamandua",
+            "animalType": "Mammal",
+            "imageLink": "https://upload.wikimedia.org/wikipedia/commons/2/26/T_tetradactyla_1.jpg",
+            "lifeSpan": "7"
+        }
+    ]
+}
